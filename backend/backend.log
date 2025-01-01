@@ -1,240 +1,1140 @@
-2024-12-28 17:38:20,213 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 17:38:20,214 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 17:38:20,218 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 17:38:20,220 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 17:38:20,220 - root - INFO - Creating database tables...
-2024-12-28 17:38:20,226 - root - INFO - Database tables created successfully
-2024-12-28 17:38:20,226 - root - INFO - Running database migrations...
-2024-12-28 17:38:20,236 - root - INFO - buyer_name column already exists
-2024-12-28 17:38:20,244 - root - INFO - Database migrations completed successfully
-2024-12-28 17:38:20,302 - root - INFO - Admin user already exists
-2024-12-28 17:38:26,379 - root - INFO - Starting Flask server on port 5000
-2024-12-28 17:38:26,379 - root - INFO - Debug mode: True
-2024-12-28 17:38:26,622 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-12-27 23:34:55,978 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-27 23:34:55,979 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-27 23:34:55,981 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-27 23:34:55,982 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-27 23:34:55,983 - root - INFO - Creating database tables...
+2024-12-27 23:34:56,016 - root - INFO - Database tables created successfully
+2024-12-27 23:34:56,017 - root - INFO - Running database migrations...
+2024-12-27 23:34:56,019 - root - INFO - buyer_name column already exists
+2024-12-27 23:34:56,020 - root - INFO - Database migrations completed successfully
+2024-12-27 23:34:56,034 - root - INFO - Admin user already exists
+2024-12-27 23:34:56,134 - root - INFO - Starting Flask server on port 5000
+2024-12-27 23:34:56,135 - root - INFO - Debug mode: True
+2024-12-27 23:34:56,204 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-12-28 17:38:26,622 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2024-12-28 17:38:26,630 - werkzeug - INFO -  * Restarting with stat
-2024-12-28 17:38:29,142 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 17:38:29,143 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 17:38:29,145 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 17:38:29,151 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 17:38:29,152 - root - INFO - Creating database tables...
-2024-12-28 17:38:29,156 - root - INFO - Database tables created successfully
-2024-12-28 17:38:29,158 - root - INFO - Running database migrations...
-2024-12-28 17:38:29,160 - root - INFO - buyer_name column already exists
-2024-12-28 17:38:29,160 - root - INFO - Database migrations completed successfully
-2024-12-28 17:38:29,189 - root - INFO - Admin user already exists
-2024-12-28 17:38:29,453 - root - INFO - Starting Flask server on port 5000
-2024-12-28 17:38:29,454 - root - INFO - Debug mode: True
-2024-12-28 17:38:29,537 - werkzeug - WARNING -  * Debugger is active!
-2024-12-28 17:38:29,557 - werkzeug - INFO -  * Debugger PIN: 464-831-860
-2024-12-28 18:37:37,639 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:37:37,640 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:37:37,643 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:37:37,644 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:37:37,645 - root - INFO - Creating database tables...
-2024-12-28 18:37:37,651 - root - INFO - Database tables created successfully
-2024-12-28 18:37:37,651 - root - INFO - Running database migrations...
-2024-12-28 18:37:37,658 - root - INFO - buyer_name column already exists
-2024-12-28 18:37:37,658 - root - INFO - Database migrations completed successfully
-2024-12-28 18:37:37,670 - root - INFO - Admin user already exists
-2024-12-28 18:37:43,515 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:37:43,516 - root - INFO - Debug mode: True
-2024-12-28 18:37:43,757 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-12-27 23:34:56,205 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 23:34:56,208 - werkzeug - INFO -  * Restarting with stat
+2024-12-27 23:34:57,554 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-27 23:34:57,555 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-27 23:34:57,558 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-27 23:34:57,560 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-27 23:34:57,560 - root - INFO - Creating database tables...
+2024-12-27 23:34:57,567 - root - INFO - Database tables created successfully
+2024-12-27 23:34:57,568 - root - INFO - Running database migrations...
+2024-12-27 23:34:57,570 - root - INFO - buyer_name column already exists
+2024-12-27 23:34:57,571 - root - INFO - Database migrations completed successfully
+2024-12-27 23:34:57,584 - root - INFO - Admin user already exists
+2024-12-27 23:34:57,700 - root - INFO - Starting Flask server on port 5000
+2024-12-27 23:34:57,700 - root - INFO - Debug mode: True
+2024-12-27 23:34:57,747 - werkzeug - WARNING -  * Debugger is active!
+2024-12-27 23:34:57,759 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 07:34:25,085 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 07:34:25,099 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:34:25,111 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 07:34:25,114 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:34:25,115 - root - INFO - Creating database tables...
+2024-12-28 07:34:25,167 - root - INFO - Database tables created successfully
+2024-12-28 07:34:25,168 - root - INFO - Running database migrations...
+2024-12-28 07:34:25,173 - root - INFO - buyer_name column already exists
+2024-12-28 07:34:25,176 - root - INFO - Database migrations completed successfully
+2024-12-28 07:34:25,198 - root - INFO - Admin user already exists
+2024-12-28 07:34:25,751 - root - INFO - Starting Flask server on port 5000
+2024-12-28 07:34:25,760 - root - INFO - Debug mode: True
+2024-12-28 07:34:25,940 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-12-28 18:37:43,757 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2024-12-28 18:37:43,763 - werkzeug - INFO -  * Restarting with stat
-2024-12-28 18:37:45,534 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:37:45,535 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:37:45,538 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:37:45,539 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:37:45,540 - root - INFO - Creating database tables...
-2024-12-28 18:37:45,545 - root - INFO - Database tables created successfully
-2024-12-28 18:37:45,545 - root - INFO - Running database migrations...
-2024-12-28 18:37:45,547 - root - INFO - buyer_name column already exists
-2024-12-28 18:37:45,547 - root - INFO - Database migrations completed successfully
-2024-12-28 18:37:45,559 - root - INFO - Admin user already exists
-2024-12-28 18:37:45,682 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:37:45,683 - root - INFO - Debug mode: True
-2024-12-28 18:37:45,732 - werkzeug - WARNING -  * Debugger is active!
-2024-12-28 18:37:45,757 - werkzeug - INFO -  * Debugger PIN: 464-831-860
-2024-12-28 18:42:03,876 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:42:03,876 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:42:03,879 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:42:03,880 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:42:03,880 - root - INFO - Creating database tables...
-2024-12-28 18:42:03,885 - root - INFO - Database tables created successfully
-2024-12-28 18:42:03,886 - root - INFO - Running database migrations...
-2024-12-28 18:42:03,888 - root - INFO - buyer_name column already exists
-2024-12-28 18:42:03,888 - root - INFO - Database migrations completed successfully
-2024-12-28 18:42:03,901 - root - INFO - Admin user already exists
-2024-12-28 18:42:04,136 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:42:04,141 - root - INFO - Debug mode: True
-2024-12-28 18:42:04,334 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-12-28 07:34:25,946 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 07:34:25,955 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 07:34:28,766 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 07:34:28,827 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:34:28,832 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 07:34:28,834 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:34:28,840 - root - INFO - Creating database tables...
+2024-12-28 07:34:28,848 - root - INFO - Database tables created successfully
+2024-12-28 07:34:28,850 - root - INFO - Running database migrations...
+2024-12-28 07:34:28,859 - root - INFO - buyer_name column already exists
+2024-12-28 07:34:28,860 - root - INFO - Database migrations completed successfully
+2024-12-28 07:34:28,900 - root - INFO - Admin user already exists
+2024-12-28 07:34:29,096 - root - INFO - Starting Flask server on port 5000
+2024-12-28 07:34:29,098 - root - INFO - Debug mode: True
+2024-12-28 07:34:29,180 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 07:34:29,198 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 07:36:06,400 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 07:36:06,405 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:36:06,409 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 07:36:06,411 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:36:06,413 - root - INFO - Creating database tables...
+2024-12-28 07:36:06,426 - root - INFO - Database tables created successfully
+2024-12-28 07:36:06,427 - root - INFO - Running database migrations...
+2024-12-28 07:36:06,520 - root - INFO - buyer_name column already exists
+2024-12-28 07:36:06,522 - root - INFO - Database migrations completed successfully
+2024-12-28 07:36:06,585 - root - INFO - Admin user already exists
+2024-12-28 07:36:07,551 - root - INFO - Starting Flask server on port 5000
+2024-12-28 07:36:07,554 - root - INFO - Debug mode: True
+2024-12-28 07:36:07,807 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-12-28 18:42:04,334 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2024-12-28 18:42:04,338 - werkzeug - INFO -  * Restarting with stat
-2024-12-28 18:42:07,819 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:42:07,820 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:42:07,824 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:42:07,826 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:42:07,826 - root - INFO - Creating database tables...
-2024-12-28 18:42:07,830 - root - INFO - Database tables created successfully
-2024-12-28 18:42:07,831 - root - INFO - Running database migrations...
-2024-12-28 18:42:07,833 - root - INFO - buyer_name column already exists
-2024-12-28 18:42:07,833 - root - INFO - Database migrations completed successfully
-2024-12-28 18:42:07,847 - root - INFO - Admin user already exists
-2024-12-28 18:42:08,219 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:42:08,220 - root - INFO - Debug mode: True
-2024-12-28 18:42:08,345 - werkzeug - WARNING -  * Debugger is active!
-2024-12-28 18:42:08,363 - werkzeug - INFO -  * Debugger PIN: 464-831-860
-2024-12-28 18:52:24,613 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:52:24,614 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:52:24,616 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:52:24,617 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:52:24,618 - root - INFO - Creating database tables...
-2024-12-28 18:52:24,626 - root - INFO - Database tables created successfully
-2024-12-28 18:52:24,626 - root - INFO - Running database migrations...
-2024-12-28 18:52:24,628 - root - INFO - buyer_name column already exists
-2024-12-28 18:52:24,628 - root - INFO - Database migrations completed successfully
-2024-12-28 18:52:24,644 - root - INFO - Admin user already exists
-2024-12-28 18:52:25,114 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:52:25,115 - root - INFO - Debug mode: True
-2024-12-28 18:52:25,370 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-12-28 07:36:07,816 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 07:36:07,823 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 07:36:33,564 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 07:36:33,565 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:36:33,568 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 07:36:33,569 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:36:33,570 - root - INFO - Creating database tables...
+2024-12-28 07:36:33,574 - root - INFO - Database tables created successfully
+2024-12-28 07:36:33,575 - root - INFO - Running database migrations...
+2024-12-28 07:36:33,577 - root - INFO - buyer_name column already exists
+2024-12-28 07:36:33,577 - root - INFO - Database migrations completed successfully
+2024-12-28 07:36:33,590 - root - INFO - Admin user already exists
+2024-12-28 07:36:34,318 - root - INFO - Starting Flask server on port 5000
+2024-12-28 07:36:34,318 - root - INFO - Debug mode: True
+2024-12-28 07:36:34,924 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-12-28 18:52:25,370 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2024-12-28 18:52:25,377 - werkzeug - INFO -  * Restarting with stat
-2024-12-28 18:52:27,936 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:52:27,936 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:52:27,940 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:52:27,941 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:52:27,942 - root - INFO - Creating database tables...
-2024-12-28 18:52:27,946 - root - INFO - Database tables created successfully
-2024-12-28 18:52:27,946 - root - INFO - Running database migrations...
-2024-12-28 18:52:27,947 - root - INFO - buyer_name column already exists
-2024-12-28 18:52:27,948 - root - INFO - Database migrations completed successfully
-2024-12-28 18:52:27,961 - root - INFO - Admin user already exists
-2024-12-28 18:52:28,154 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:52:28,158 - root - INFO - Debug mode: True
-2024-12-28 18:52:28,245 - werkzeug - WARNING -  * Debugger is active!
-2024-12-28 18:52:28,259 - werkzeug - INFO -  * Debugger PIN: 464-831-860
-2024-12-28 18:54:04,957 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:54:04,958 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:54:04,961 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:54:04,962 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:54:04,962 - root - INFO - Creating database tables...
-2024-12-28 18:54:04,969 - root - INFO - Database tables created successfully
-2024-12-28 18:54:04,969 - root - INFO - Running database migrations...
-2024-12-28 18:54:04,971 - root - INFO - buyer_name column already exists
-2024-12-28 18:54:04,972 - root - INFO - Database migrations completed successfully
-2024-12-28 18:54:04,986 - root - INFO - Admin user already exists
-2024-12-28 18:54:05,226 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:54:05,227 - root - INFO - Debug mode: True
-2024-12-28 18:54:05,754 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-12-28 07:36:34,937 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 07:36:34,942 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 07:36:42,914 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 07:36:42,917 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:36:42,920 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 07:36:42,926 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 07:36:42,927 - root - INFO - Creating database tables...
+2024-12-28 07:36:42,933 - root - INFO - Database tables created successfully
+2024-12-28 07:36:42,934 - root - INFO - Running database migrations...
+2024-12-28 07:36:42,937 - root - INFO - buyer_name column already exists
+2024-12-28 07:36:42,938 - root - INFO - Database migrations completed successfully
+2024-12-28 07:36:42,959 - root - INFO - Admin user already exists
+2024-12-28 07:36:43,233 - root - INFO - Starting Flask server on port 5000
+2024-12-28 07:36:43,237 - root - INFO - Debug mode: True
+2024-12-28 07:36:43,318 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 07:36:43,330 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 11:26:58,751 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 11:26:58,752 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 11:26:58,755 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 11:26:58,757 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 11:26:58,757 - root - INFO - Creating database tables...
+2024-12-28 11:26:58,782 - root - INFO - Database tables created successfully
+2024-12-28 11:26:58,783 - root - INFO - Running database migrations...
+2024-12-28 11:26:58,785 - root - INFO - buyer_name column already exists
+2024-12-28 11:26:58,787 - root - INFO - Database migrations completed successfully
+2024-12-28 11:26:58,796 - root - INFO - Admin user already exists
+2024-12-28 11:27:02,138 - root - INFO - Starting Flask server on port 5000
+2024-12-28 11:27:02,139 - root - INFO - Debug mode: True
+2024-12-28 11:27:02,282 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-12-28 18:54:05,755 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2024-12-28 18:54:05,759 - werkzeug - INFO -  * Restarting with stat
-2024-12-28 18:54:07,812 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:54:07,813 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:54:07,816 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:54:07,819 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:54:07,819 - root - INFO - Creating database tables...
-2024-12-28 18:54:07,825 - root - INFO - Database tables created successfully
-2024-12-28 18:54:07,825 - root - INFO - Running database migrations...
-2024-12-28 18:54:07,827 - root - INFO - buyer_name column already exists
-2024-12-28 18:54:07,827 - root - INFO - Database migrations completed successfully
-2024-12-28 18:54:07,842 - root - INFO - Admin user already exists
-2024-12-28 18:54:08,043 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:54:08,044 - root - INFO - Debug mode: True
-2024-12-28 18:54:08,108 - werkzeug - WARNING -  * Debugger is active!
-2024-12-28 18:54:08,122 - werkzeug - INFO -  * Debugger PIN: 464-831-860
-2024-12-28 18:56:24,625 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:56:24,628 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:56:24,631 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:56:24,633 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:56:24,633 - root - INFO - Creating database tables...
-2024-12-28 18:56:24,639 - root - INFO - Database tables created successfully
-2024-12-28 18:56:24,639 - root - INFO - Running database migrations...
-2024-12-28 18:56:24,641 - root - INFO - buyer_name column already exists
-2024-12-28 18:56:24,641 - root - INFO - Database migrations completed successfully
-2024-12-28 18:56:24,657 - root - INFO - Admin user already exists
-2024-12-28 18:56:24,848 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:56:24,848 - root - INFO - Debug mode: True
-2024-12-28 18:56:24,964 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-12-28 11:27:02,282 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 11:27:02,287 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 11:27:03,658 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 11:27:03,659 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 11:27:03,661 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 11:27:03,662 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 11:27:03,663 - root - INFO - Creating database tables...
+2024-12-28 11:27:03,669 - root - INFO - Database tables created successfully
+2024-12-28 11:27:03,669 - root - INFO - Running database migrations...
+2024-12-28 11:27:03,671 - root - INFO - buyer_name column already exists
+2024-12-28 11:27:03,672 - root - INFO - Database migrations completed successfully
+2024-12-28 11:27:03,685 - root - INFO - Admin user already exists
+2024-12-28 11:27:03,805 - root - INFO - Starting Flask server on port 5000
+2024-12-28 11:27:03,805 - root - INFO - Debug mode: True
+2024-12-28 11:27:03,847 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 11:27:03,860 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 11:27:23,297 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:27:23,300 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:23] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:27:23,552 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:27:23,619 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:23] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:27:23,619 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:27:23,868 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:27:23,933 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:27:26,420 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:26] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:27:26,725 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:26] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:27:26,769 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:26] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:27:27,040 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:27] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:27:29,334 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:29] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:27:29,335 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:29] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:27:29,843 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:29] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:27:29,876 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:29] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:27:36,377 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:36] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:27:36,386 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:36] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:27:36,673 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:36] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:27:36,743 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:27:36] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:28:33,370 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:28:33,685 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:33] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:28:33,733 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:28:34,000 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:34] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:28:34,047 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:34] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:28:34,358 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:34] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:28:34,622 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:34] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:28:39,127 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:39] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:28:39,435 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:39] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:28:39,498 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:39] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:28:39,749 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:39] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:28:42,297 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:42] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:28:42,323 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:42] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:28:42,589 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:42] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:28:42,685 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:28:42] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:33:57,647 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:33:57] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:33:57,661 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:33:57] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:33:57,839 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:33:57] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:33:58,110 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:33:58] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:33:58,131 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:33:58] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:33:58,206 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:33:58] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:33:58,447 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:33:58] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:34:01,267 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:34:01] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:34:01,578 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:34:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:34:01,668 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:34:01] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:34:01,910 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:34:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:34:02,751 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:34:02] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:34:02,752 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:34:02] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:34:03,034 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:34:03] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:34:03,121 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:34:03] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:41:32,071 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:41:32,196 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:41:32,244 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:41:32,584 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:41:33,011 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:41:33,339 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:41:33,359 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:41:35,988 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:35] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:41:36,074 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:36] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:41:36,186 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:36] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:41:36,730 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:36] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:41:37,220 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:37] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:41:37,231 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:37] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:41:37,456 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:37] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:41:37,675 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:41:37] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:42:48,526 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:42:48] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:42:48,800 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:42:48] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:47:01,406 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:01] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:47:01,476 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:47:01,528 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:01] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:47:01,887 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:47:02,294 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:02] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:47:02,572 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:02] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:47:03,029 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:47:04,586 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:04] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:47:04,588 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:04] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:47:04,877 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:04] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:47:04,971 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:04] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:47:05,809 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:05] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:47:06,188 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:06] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:47:06,584 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:06] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:47:06,829 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:47:06] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:55:38,873 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:38] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:55:38,891 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:38] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:39,040 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:39] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:55:39,194 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:39] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:39,227 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:39] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:39,508 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:39] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:39,549 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:39] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:43,850 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:43] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:55:44,255 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:44] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:55:44,327 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:44] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:44,679 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:44] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:45,838 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:45] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:46,199 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:46] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:55:46,228 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:46] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:46,554 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:46] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:55:46,577 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:46] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:46,883 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:46] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:47,207 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:47] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:48,099 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:48] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:55:48,464 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:48] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:48,584 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:48] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 11:55:48,783 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:48] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 11:55:52,882 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:52] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:55:52,897 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:52] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:55:53,261 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:53] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:55:53,557 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:55:53] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:56:03,379 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:56:03] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:56:03,413 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:56:03] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 11:56:03,774 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:56:03] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 11:56:04,107 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 11:56:04] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 12:17:00,992 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:00] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 12:17:01,014 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:01] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 12:17:01,092 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 12:17:01,582 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 12:17:01,617 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:01] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 12:17:01,974 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 12:17:02,294 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:02] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 12:17:50,157 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:50] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 12:17:50,158 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:50] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 12:17:50,408 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:50] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 12:17:50,573 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:50] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 12:17:51,592 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:51] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 12:17:51,897 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:51] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 12:17:51,978 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:51] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 12:17:52,352 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 12:17:52] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:03,295 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 14:40:03,297 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:40:03,303 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 14:40:03,305 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:40:03,306 - root - INFO - Creating database tables...
+2024-12-28 14:40:03,343 - root - INFO - Database tables created successfully
+2024-12-28 14:40:03,344 - root - INFO - Running database migrations...
+2024-12-28 14:40:03,346 - root - INFO - buyer_name column already exists
+2024-12-28 14:40:03,351 - root - INFO - Database migrations completed successfully
+2024-12-28 14:40:03,373 - root - INFO - Admin user already exists
+2024-12-28 14:40:03,632 - root - INFO - Starting Flask server on port 5000
+2024-12-28 14:40:03,636 - root - INFO - Debug mode: True
+2024-12-28 14:40:03,770 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-12-28 18:56:24,964 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2024-12-28 18:56:24,969 - werkzeug - INFO -  * Restarting with stat
-2024-12-28 18:56:27,532 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 18:56:27,532 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:56:27,535 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 18:56:27,537 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 18:56:27,537 - root - INFO - Creating database tables...
-2024-12-28 18:56:27,546 - root - INFO - Database tables created successfully
-2024-12-28 18:56:27,546 - root - INFO - Running database migrations...
-2024-12-28 18:56:27,548 - root - INFO - buyer_name column already exists
-2024-12-28 18:56:27,549 - root - INFO - Database migrations completed successfully
-2024-12-28 18:56:27,564 - root - INFO - Admin user already exists
-2024-12-28 18:56:27,782 - root - INFO - Starting Flask server on port 5000
-2024-12-28 18:56:27,782 - root - INFO - Debug mode: True
-2024-12-28 18:56:27,854 - werkzeug - WARNING -  * Debugger is active!
-2024-12-28 18:56:27,869 - werkzeug - INFO -  * Debugger PIN: 464-831-860
-2024-12-28 19:00:55,155 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 19:00:55,156 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 19:00:55,159 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 19:00:55,162 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 19:00:55,163 - root - INFO - Creating database tables...
-2024-12-28 19:00:55,168 - root - INFO - Database tables created successfully
-2024-12-28 19:00:55,168 - root - INFO - Running database migrations...
-2024-12-28 19:00:55,171 - root - INFO - buyer_name column already exists
-2024-12-28 19:00:55,172 - root - INFO - Database migrations completed successfully
-2024-12-28 19:00:55,186 - root - INFO - Admin user already exists
-2024-12-28 19:00:55,825 - root - INFO - Starting Flask server on port 5000
-2024-12-28 19:00:55,825 - root - INFO - Debug mode: True
-2024-12-28 19:00:56,255 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-12-28 14:40:03,774 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 14:40:03,786 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 14:40:05,962 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 14:40:05,963 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:40:05,970 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 14:40:05,971 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:40:05,972 - root - INFO - Creating database tables...
+2024-12-28 14:40:05,978 - root - INFO - Database tables created successfully
+2024-12-28 14:40:05,978 - root - INFO - Running database migrations...
+2024-12-28 14:40:05,983 - root - INFO - buyer_name column already exists
+2024-12-28 14:40:05,984 - root - INFO - Database migrations completed successfully
+2024-12-28 14:40:05,993 - root - INFO - Admin user already exists
+2024-12-28 14:40:06,141 - root - INFO - Starting Flask server on port 5000
+2024-12-28 14:40:06,142 - root - INFO - Debug mode: True
+2024-12-28 14:40:06,205 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 14:40:06,221 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 14:40:24,618 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:24] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:40:24,623 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:24] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:40:24,851 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:24] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:40:24,944 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:24] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:40:24,954 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:24] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:40:25,270 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:25] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:40:25,524 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:25] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:40:29,358 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:29] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:40:29,673 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:40:29,678 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:29] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:40:29,988 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:40:31,339 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:31] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:40:31,342 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:31] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:40:31,637 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:31] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:31,692 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:31] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:37,886 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:37] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:40:38,202 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:38] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:40:38,242 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:38] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:38,582 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:38] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:39,537 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:39] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:40,985 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:40] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:41,198 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:41] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:42,262 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:42] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:40:43,690 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:43] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:40:43,961 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:40:43] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:49:06,759 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 14:49:06,761 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:49:06,765 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 14:49:06,766 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:49:06,766 - root - INFO - Creating database tables...
+2024-12-28 14:49:06,796 - root - INFO - Database tables created successfully
+2024-12-28 14:49:06,796 - root - INFO - Running database migrations...
+2024-12-28 14:49:06,798 - root - INFO - buyer_name column already exists
+2024-12-28 14:49:06,799 - root - INFO - Database migrations completed successfully
+2024-12-28 14:49:06,809 - root - INFO - Admin user already exists
+2024-12-28 14:49:07,060 - root - INFO - Starting Flask server on port 5000
+2024-12-28 14:49:07,061 - root - INFO - Debug mode: True
+2024-12-28 14:49:07,162 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-12-28 19:00:56,256 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2024-12-28 19:00:56,284 - werkzeug - INFO -  * Restarting with stat
-2024-12-28 19:00:58,203 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 19:00:58,204 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 19:00:58,206 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 19:00:58,207 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 19:00:58,208 - root - INFO - Creating database tables...
-2024-12-28 19:00:58,214 - root - INFO - Database tables created successfully
-2024-12-28 19:00:58,214 - root - INFO - Running database migrations...
-2024-12-28 19:00:58,216 - root - INFO - buyer_name column already exists
-2024-12-28 19:00:58,216 - root - INFO - Database migrations completed successfully
-2024-12-28 19:00:58,230 - root - INFO - Admin user already exists
-2024-12-28 19:00:58,409 - root - INFO - Starting Flask server on port 5000
-2024-12-28 19:00:58,409 - root - INFO - Debug mode: True
-2024-12-28 19:00:58,465 - werkzeug - WARNING -  * Debugger is active!
-2024-12-28 19:00:58,476 - werkzeug - INFO -  * Debugger PIN: 464-831-860
-2024-12-28 19:09:38,861 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 19:09:38,862 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 19:09:38,864 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 19:09:38,867 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 19:09:38,867 - root - INFO - Creating database tables...
-2024-12-28 19:09:38,873 - root - INFO - Database tables created successfully
-2024-12-28 19:09:38,873 - root - INFO - Running database migrations...
-2024-12-28 19:09:38,875 - root - INFO - buyer_name column already exists
-2024-12-28 19:09:38,875 - root - INFO - Database migrations completed successfully
-2024-12-28 19:09:38,900 - root - INFO - Admin user already exists
-2024-12-28 19:09:39,434 - root - INFO - Starting Flask server on port 5000
-2024-12-28 19:09:39,434 - root - INFO - Debug mode: True
-2024-12-28 19:09:40,171 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-12-28 14:49:07,163 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 14:49:07,169 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 14:49:08,645 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 14:49:08,646 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:49:08,648 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 14:49:08,651 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:49:08,652 - root - INFO - Creating database tables...
+2024-12-28 14:49:08,657 - root - INFO - Database tables created successfully
+2024-12-28 14:49:08,658 - root - INFO - Running database migrations...
+2024-12-28 14:49:08,660 - root - INFO - buyer_name column already exists
+2024-12-28 14:49:08,660 - root - INFO - Database migrations completed successfully
+2024-12-28 14:49:08,672 - root - INFO - Admin user already exists
+2024-12-28 14:49:08,797 - root - INFO - Starting Flask server on port 5000
+2024-12-28 14:49:08,797 - root - INFO - Debug mode: True
+2024-12-28 14:49:08,842 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 14:49:08,865 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 14:49:31,511 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:31] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:49:31,512 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:31] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:49:31,741 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:31] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:49:31,823 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:31] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:49:31,832 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:31] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:49:32,057 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:49:32,154 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:49:36,244 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:36] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:49:36,588 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:36] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:49:36,602 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:36] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:49:36,899 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:36] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:49:39,611 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:39] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:49:39,612 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:39] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:49:39,960 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:39] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:49:40,214 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:49:40] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:51:00,901 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:51:00] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:51:01,235 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:51:01] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:54:23,239 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:54:23] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 14:54:23,494 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:54:23] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 14:54:30,398 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:54:30] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 14:54:30,724 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:54:30] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 14:54:39,973 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:54:39] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 14:54:40,293 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:54:40] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 14:54:40,563 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:54:40] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 14:54:41,128 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:54:41] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 14:55:03,237 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:03] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 14:55:03,919 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:03] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 14:55:04,028 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:04] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:55:04,330 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:04] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:55:04,340 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:04] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:55:04,642 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:04] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:55:04,654 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:04] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:55:04,972 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:04] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:55:05,239 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:05] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:55:19,557 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:19] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 14:55:19,883 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:55:19] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 14:56:45,399 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\server.py', reloading
+2024-12-28 14:56:45,979 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 14:56:47,574 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 14:56:47,574 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:56:47,578 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 14:56:47,580 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:56:47,581 - root - INFO - Creating database tables...
+2024-12-28 14:56:47,586 - root - INFO - Database tables created successfully
+2024-12-28 14:56:47,587 - root - INFO - Running database migrations...
+2024-12-28 14:56:47,588 - root - INFO - buyer_name column already exists
+2024-12-28 14:56:47,589 - root - INFO - Database migrations completed successfully
+2024-12-28 14:56:47,712 - root - INFO - Starting Flask server on port 5000
+2024-12-28 14:56:47,713 - root - INFO - Debug mode: True
+2024-12-28 14:56:47,760 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 14:56:47,770 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 14:56:56,163 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:56:56] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 14:56:56,437 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:56:56] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 14:57:00,033 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:00] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 14:57:00,474 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:00] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:57:00,482 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:00] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:57:00,730 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:00] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:57:00,789 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:00] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:57:00,790 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:00] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:57:01,039 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:57:01,119 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:57:04,681 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:04] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:57:04,988 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:04] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:57:05,004 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:05] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 14:57:05,301 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:05] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 14:57:07,249 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:07] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:57:07,250 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:07] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:57:07,585 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:07] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:57:07,851 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:07] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:57:26,912 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:26] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 14:57:26,966 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 14:57:26] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 14:59:13,383 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\server.py', reloading
+2024-12-28 14:59:13,682 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 14:59:15,561 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 14:59:15,562 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:59:15,565 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 14:59:15,566 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 14:59:15,567 - root - INFO - Creating database tables...
+2024-12-28 14:59:15,575 - root - INFO - Database tables created successfully
+2024-12-28 14:59:15,576 - root - INFO - Running database migrations...
+2024-12-28 14:59:15,578 - root - INFO - buyer_name column already exists
+2024-12-28 14:59:15,579 - root - INFO - Database migrations completed successfully
+2024-12-28 14:59:15,594 - root - INFO - Admin user already exists
+2024-12-28 14:59:15,781 - root - INFO - Starting Flask server on port 5000
+2024-12-28 14:59:15,781 - root - INFO - Debug mode: True
+2024-12-28 14:59:15,862 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 14:59:15,879 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 15:18:03,847 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:18:03] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:18:03,851 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:18:03] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:18:04,264 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:18:04] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 15:18:04,452 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:18:04] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 15:22:28,157 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 15:22:28,543 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 15:22:31,364 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:22:31,365 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:22:31,368 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 15:22:31,369 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:22:31,370 - root - INFO - Creating database tables...
+2024-12-28 15:22:31,375 - root - INFO - Database tables created successfully
+2024-12-28 15:22:31,376 - root - INFO - Running database migrations...
+2024-12-28 15:22:31,379 - root - INFO - buyer_name column already exists
+2024-12-28 15:22:31,380 - root - INFO - Database migrations completed successfully
+2024-12-28 15:22:31,396 - root - INFO - Admin user already exists
+2024-12-28 15:29:01,169 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:29:01,170 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:29:01,173 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 15:29:01,174 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:29:01,175 - root - INFO - Creating database tables...
+2024-12-28 15:29:01,178 - root - INFO - Database tables created successfully
+2024-12-28 15:29:01,179 - root - INFO - Running database migrations...
+2024-12-28 15:29:01,181 - root - INFO - buyer_name column already exists
+2024-12-28 15:29:01,181 - root - INFO - Database migrations completed successfully
+2024-12-28 15:29:01,194 - root - INFO - Admin user already exists
+2024-12-28 15:29:01,314 - root - INFO - Starting Flask server on port 5000
+2024-12-28 15:29:01,315 - root - INFO - Debug mode: True
+2024-12-28 15:29:01,462 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:5000
-2024-12-28 19:09:40,172 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
-2024-12-28 19:09:40,178 - werkzeug - INFO -  * Restarting with stat
-2024-12-28 19:09:44,062 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
-2024-12-28 19:09:44,063 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 19:09:44,067 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
-2024-12-28 19:09:44,069 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
-2024-12-28 19:09:44,069 - root - INFO - Creating database tables...
-2024-12-28 19:09:44,075 - root - INFO - Database tables created successfully
-2024-12-28 19:09:44,075 - root - INFO - Running database migrations...
-2024-12-28 19:09:44,077 - root - INFO - buyer_name column already exists
-2024-12-28 19:09:44,077 - root - INFO - Database migrations completed successfully
-2024-12-28 19:09:44,091 - root - INFO - Admin user already exists
-2024-12-28 19:09:44,351 - root - INFO - Starting Flask server on port 5000
-2024-12-28 19:09:44,352 - root - INFO - Debug mode: True
-2024-12-28 19:09:44,524 - werkzeug - WARNING -  * Debugger is active!
-2024-12-28 19:09:44,550 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 15:29:01,463 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 15:29:01,467 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 15:29:02,847 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:29:02,848 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:29:02,851 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 15:29:02,852 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:29:02,853 - root - INFO - Creating database tables...
+2024-12-28 15:29:02,860 - root - INFO - Database tables created successfully
+2024-12-28 15:29:02,861 - root - INFO - Running database migrations...
+2024-12-28 15:29:02,862 - root - INFO - buyer_name column already exists
+2024-12-28 15:29:02,863 - root - INFO - Database migrations completed successfully
+2024-12-28 15:29:02,878 - root - INFO - Admin user already exists
+2024-12-28 15:29:03,008 - root - INFO - Starting Flask server on port 5000
+2024-12-28 15:29:03,009 - root - INFO - Debug mode: True
+2024-12-28 15:29:03,063 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 15:29:03,074 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 15:29:38,196 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:29:38] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:29:38,198 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:29:38] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:29:38,548 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:29:38] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 15:29:38,821 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:29:38] "[35m[1mGET /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 15:30:45,280 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:30:45] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:30:45,618 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:30:45] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 500 -
+2024-12-28 15:37:13,213 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 15:37:13,650 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 15:37:15,980 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:37:15,981 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:37:15,983 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 15:37:15,985 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:37:15,985 - root - INFO - Creating database tables...
+2024-12-28 15:37:15,990 - root - INFO - Database tables created successfully
+2024-12-28 15:37:15,991 - root - INFO - Running database migrations...
+2024-12-28 15:37:15,993 - root - INFO - buyer_name column already exists
+2024-12-28 15:37:15,993 - root - INFO - Database migrations completed successfully
+2024-12-28 15:37:16,003 - root - INFO - Admin user already exists
+2024-12-28 15:37:16,141 - root - INFO - Starting Flask server on port 5000
+2024-12-28 15:37:16,141 - root - INFO - Debug mode: True
+2024-12-28 15:37:16,271 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 15:37:16,281 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 15:37:29,114 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:37:29] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:37:29,117 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:37:29] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:37:29,437 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:37:29] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:37:29,698 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:37:29] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:38:06,564 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:06] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:38:06,622 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:06] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:38:06,766 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:06] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:38:06,922 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:06] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:38:06,939 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:06] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:38:07,081 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:07] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:38:07,256 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:07] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:38:13,023 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:13] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:38:13,026 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:13] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:38:13,277 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:13] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:38:13,339 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:13] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:38:14,197 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:14] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:38:14,502 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:14] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:38:14,566 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:14] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:38:14,814 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:38:14] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:39:36,027 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:39:36] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:39:36,297 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:39:36] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:39:47,198 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:39:47] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:39:47,467 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:39:47] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:39:49,199 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:39:49] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:39:59,982 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:39:59] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:40:00,250 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:00] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:40:00,586 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:00] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:40:09,714 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:09] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:40:09,970 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:09] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:40:10,005 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:10] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:40:10,032 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:10] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:40:14,451 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:14] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:40:14,614 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:14] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:14,926 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:14] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:40:14,944 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:14] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:15,241 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:15] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:40:15,259 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:15] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:15,574 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:15] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:15,827 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:15] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:30,857 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:30] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:40:31,301 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:31] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:40:31,425 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:31] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:31,736 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:31] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:40:31,759 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:31] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:32,056 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:40:32,075 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:32,397 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:32,649 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:52,371 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:52] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:40:52,806 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:52] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:40:52,943 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:52] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:53,256 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:53] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:40:53,261 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:53] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:53,568 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:53] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:40:53,586 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:53] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:53,898 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:53] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:40:54,164 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:40:54] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:41:20,706 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:20] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:41:20,709 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:20] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:41:20,969 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:20] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:41:21,036 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:21] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:41:22,936 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:22] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:41:22,939 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:22] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:41:23,286 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:23] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:41:23,554 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:23] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:41:29,194 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:29] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:41:29,209 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:29] "[31m[1mPOST /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:41:31,502 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:31] "[31m[1mPOST /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:41:33,363 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:33] "[31m[1mPOST /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:41:36,140 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:36] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:41:36,457 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:41:36] "[31m[1mPOST /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:43:18,466 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 15:43:18,763 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 15:43:21,270 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:43:21,271 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:43:21,277 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 15:43:21,280 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:43:21,280 - root - INFO - Creating database tables...
+2024-12-28 15:43:21,285 - root - INFO - Database tables created successfully
+2024-12-28 15:43:21,286 - root - INFO - Running database migrations...
+2024-12-28 15:43:21,287 - root - INFO - buyer_name column already exists
+2024-12-28 15:43:21,288 - root - INFO - Database migrations completed successfully
+2024-12-28 15:43:21,301 - root - INFO - Admin user already exists
+2024-12-28 15:43:21,453 - root - INFO - Starting Flask server on port 5000
+2024-12-28 15:43:21,454 - root - INFO - Debug mode: True
+2024-12-28 15:43:21,521 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 15:43:21,534 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 15:43:31,689 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:31] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:43:31,698 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:31] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:43:31,963 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:31] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:43:32,019 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:43:32,051 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:43:32,318 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:43:32,430 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:43:37,515 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:37] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:43:37,518 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:37] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:43:37,781 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:37] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:43:37,843 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:37] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:43:40,510 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:40] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:43:40,818 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:40] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:43:40,821 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:40] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:43:41,098 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:43:41] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:45:41,324 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 15:45:41,740 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 15:45:44,637 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:45:44,637 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:45:44,639 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 15:45:44,640 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:45:44,641 - root - INFO - Creating database tables...
+2024-12-28 15:45:44,645 - root - INFO - Database tables created successfully
+2024-12-28 15:45:44,646 - root - INFO - Running database migrations...
+2024-12-28 15:45:44,648 - root - INFO - buyer_name column already exists
+2024-12-28 15:45:44,648 - root - INFO - Database migrations completed successfully
+2024-12-28 15:45:44,660 - root - INFO - Admin user already exists
+2024-12-28 15:45:44,814 - root - INFO - Starting Flask server on port 5000
+2024-12-28 15:45:44,815 - root - INFO - Debug mode: True
+2024-12-28 15:45:44,972 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 15:45:44,982 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 15:46:16,745 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:16] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:46:17,001 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:17] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:46:40,174 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:40] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:46:40,428 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:40] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:46:41,742 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:41] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:46:42,934 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:42] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:46:43,166 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:43] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:46:43,199 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:43] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:46:43,370 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:46:43] "[31m[1mPOST /api/auth/login HTTP/1.1[0m" 401 -
+2024-12-28 15:47:17,780 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\server.py', reloading
+2024-12-28 15:47:18,050 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 15:47:20,413 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:47:20,415 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:47:20,418 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 15:47:20,420 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:47:20,420 - root - INFO - Creating database tables...
+2024-12-28 15:47:20,426 - root - INFO - Database tables created successfully
+2024-12-28 15:47:20,427 - root - INFO - Running database migrations...
+2024-12-28 15:47:20,430 - root - INFO - buyer_name column already exists
+2024-12-28 15:47:20,432 - root - INFO - Database migrations completed successfully
+2024-12-28 15:47:20,781 - root - INFO - Admin user created successfully
+2024-12-28 15:47:21,486 - root - INFO - Starting Flask server on port 5000
+2024-12-28 15:47:21,487 - root - INFO - Debug mode: True
+2024-12-28 15:47:21,554 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 15:47:21,568 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 15:47:26,923 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:26] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:47:27,548 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:27] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 15:47:28,331 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:28] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:47:28,672 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:28] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:47:28,705 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:28] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:47:29,067 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:29] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:47:29,071 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:47:29,407 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:47:29,674 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:47:47,653 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:47] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:47:47,654 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:47] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:47:47,919 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:47] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:47:47,971 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:47] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:47:49,072 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:49] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:47:49,388 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:49] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:47:49,402 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:49] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:47:49,664 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:49] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:47:53,701 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:47:53] "[31m[1mPOST /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:49:36,964 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:36] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:49:36,973 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:36] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:49:37,096 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:37] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:49:37,278 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:37] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:49:37,310 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:37] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:49:37,593 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:37] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:49:37,629 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:37] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:49:40,587 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:40] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:49:40,892 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:40] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:49:40,946 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:40] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:49:41,209 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:41] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:49:42,380 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:42] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:49:42,383 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:42] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:49:42,714 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:42] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:49:42,968 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:49:42] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:53:01,902 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 15:53:02,859 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 15:53:06,825 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:53:06,827 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:53:06,830 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 15:53:06,832 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:53:06,832 - root - INFO - Creating database tables...
+2024-12-28 15:53:06,867 - root - INFO - Database tables created successfully
+2024-12-28 15:53:06,867 - root - INFO - Running database migrations...
+2024-12-28 15:53:06,869 - root - INFO - buyer_name column already exists
+2024-12-28 15:53:06,870 - root - INFO - Database migrations completed successfully
+2024-12-28 15:53:06,881 - root - INFO - Admin user already exists
+2024-12-28 15:53:07,011 - root - INFO - Starting Flask server on port 5000
+2024-12-28 15:53:07,012 - root - INFO - Debug mode: True
+2024-12-28 15:53:07,119 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 15:53:07,131 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 15:53:29,016 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:53:29,021 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:29] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:53:29,273 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:53:29,336 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:29] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:53:29,340 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:53:29,590 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:53:29,653 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:53:32,406 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:53:32,714 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:53:32,753 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 15:53:33,036 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 15:53:34,350 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:34] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:53:34,353 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:34] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 15:53:34,704 - auth - INFO - Received headers: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Android"', 'Authorization': 'Bearer some-token', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36', 'Sec-Ch-Ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?1', 'Accept': '*/*', 'Origin': 'http://localhost:3000', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8', 'Cookie': 'Pycharm-aae5518d=d9a0b0d8-734d-4496-8b0f-6088e92a89ab'}
+2024-12-28 15:53:34,706 - auth - INFO - Attempting to decode token
+2024-12-28 15:53:34,706 - auth - ERROR - Invalid token: Not enough segments
+2024-12-28 15:53:34,710 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:34] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:53:34,971 - auth - INFO - Received headers: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Android"', 'Authorization': 'Bearer some-token', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36', 'Sec-Ch-Ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?1', 'Accept': '*/*', 'Origin': 'http://localhost:3000', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8', 'Cookie': 'Pycharm-aae5518d=d9a0b0d8-734d-4496-8b0f-6088e92a89ab'}
+2024-12-28 15:53:34,973 - auth - INFO - Attempting to decode token
+2024-12-28 15:53:34,974 - auth - ERROR - Invalid token: Not enough segments
+2024-12-28 15:53:34,975 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 15:53:34] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 15:57:20,220 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\server.py', reloading
+2024-12-28 15:57:20,576 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 15:57:23,271 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 15:57:23,272 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:57:23,276 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 15:57:23,277 - root - INFO - Creating database tables...
+2024-12-28 15:57:23,284 - root - INFO - Database tables created successfully
+2024-12-28 15:57:23,285 - root - INFO - Running database migrations...
+2024-12-28 15:57:23,287 - root - INFO - buyer_name column already exists
+2024-12-28 15:57:23,288 - root - INFO - Database migrations completed successfully
+2024-12-28 15:57:23,302 - root - INFO - Admin user already exists
+2024-12-28 15:57:23,569 - root - INFO - Starting Flask server on port 5000
+2024-12-28 15:57:23,570 - root - INFO - Debug mode: True
+2024-12-28 15:57:23,631 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 15:57:23,643 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:00:22,088 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:00:22] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:00:22,450 - auth - INFO - Received headers: {'Host': 'localhost:5000', 'Connection': 'keep-alive', 'Sec-Ch-Ua-Platform': '"Android"', 'Authorization': 'Bearer some-token', 'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36', 'Sec-Ch-Ua': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"', 'Content-Type': 'application/json', 'Sec-Ch-Ua-Mobile': '?1', 'Accept': '*/*', 'Origin': 'http://localhost:3000', 'Sec-Fetch-Site': 'same-site', 'Sec-Fetch-Mode': 'cors', 'Sec-Fetch-Dest': 'empty', 'Referer': 'http://localhost:3000/', 'Accept-Encoding': 'gzip, deflate, br, zstd', 'Accept-Language': 'en-GB,en-US;q=0.9,en;q=0.8', 'Cookie': 'Pycharm-aae5518d=d9a0b0d8-734d-4496-8b0f-6088e92a89ab'}
+2024-12-28 16:00:22,454 - auth - INFO - Attempting to decode token
+2024-12-28 16:00:22,456 - auth - ERROR - Invalid token: Not enough segments
+2024-12-28 16:00:22,458 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:00:22] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 16:02:26,874 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:02:26,875 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:02:26,881 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:02:26,881 - root - INFO - Creating database tables...
+2024-12-28 16:02:26,887 - root - INFO - Database tables created successfully
+2024-12-28 16:02:26,887 - root - INFO - Running database migrations...
+2024-12-28 16:02:26,889 - root - INFO - buyer_name column already exists
+2024-12-28 16:02:26,890 - root - INFO - Database migrations completed successfully
+2024-12-28 16:02:26,903 - root - INFO - Admin user already exists
+2024-12-28 16:02:27,122 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:02:27,122 - root - INFO - Debug mode: True
+2024-12-28 16:02:27,251 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 16:02:27,252 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 16:02:27,258 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:02:28,790 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:02:28,791 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:02:28,794 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:02:28,797 - root - INFO - Creating database tables...
+2024-12-28 16:02:28,801 - root - INFO - Database tables created successfully
+2024-12-28 16:02:28,801 - root - INFO - Running database migrations...
+2024-12-28 16:02:28,803 - root - INFO - buyer_name column already exists
+2024-12-28 16:02:28,803 - root - INFO - Database migrations completed successfully
+2024-12-28 16:02:28,815 - root - INFO - Admin user already exists
+2024-12-28 16:02:28,936 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:02:28,937 - root - INFO - Debug mode: True
+2024-12-28 16:02:28,983 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:02:28,993 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:03:31,642 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:31] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:03:32,333 - auth - INFO - User admin logged in successfully
+2024-12-28 16:03:32,334 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:32] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:03:32,543 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:03:32,851 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:03:32,907 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:03:33,213 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:33] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:03:33,230 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:03:33,547 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:03:35,173 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:35] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:03:48,296 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:48] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:03:48,298 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:48] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:03:48,553 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:48] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:03:48,619 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:03:48] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:07:21,902 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:21] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:07:22,409 - auth - INFO - User admin logged in successfully
+2024-12-28 16:07:22,410 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:22] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:07:22,557 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:22] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:07:22,873 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:22] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:07:22,889 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:22] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:07:23,205 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:23] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:07:23,219 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:07:23,538 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:07:23,805 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:07:32,098 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:07:32,421 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:07:32,440 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:07:32,734 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:07:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:13:54,663 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 16:13:55,409 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:13:57,738 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:13:57,739 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:13:57,745 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:13:57,746 - root - INFO - Creating database tables...
+2024-12-28 16:13:57,751 - root - INFO - Database tables created successfully
+2024-12-28 16:13:57,752 - root - INFO - Running database migrations...
+2024-12-28 16:13:57,759 - root - INFO - buyer_name column already exists
+2024-12-28 16:13:57,760 - root - INFO - Database migrations completed successfully
+2024-12-28 16:13:57,776 - root - INFO - Admin user already exists
+2024-12-28 16:13:58,199 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:13:58,202 - root - INFO - Debug mode: True
+2024-12-28 16:13:58,266 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:13:58,277 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:14:22,880 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 16:14:23,178 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:14:26,983 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:14:26,984 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:14:26,987 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:14:26,988 - root - INFO - Creating database tables...
+2024-12-28 16:14:26,995 - root - INFO - Database tables created successfully
+2024-12-28 16:14:26,997 - root - INFO - Running database migrations...
+2024-12-28 16:14:26,999 - root - INFO - buyer_name column already exists
+2024-12-28 16:14:27,000 - root - INFO - Database migrations completed successfully
+2024-12-28 16:14:27,012 - root - INFO - Admin user already exists
+2024-12-28 16:14:27,197 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:14:27,198 - root - INFO - Debug mode: True
+2024-12-28 16:14:27,255 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:14:27,267 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:15:46,748 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:15:46,750 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:15:46,758 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:15:46,760 - root - INFO - Creating database tables...
+2024-12-28 16:15:46,766 - root - INFO - Database tables created successfully
+2024-12-28 16:15:46,766 - root - INFO - Running database migrations...
+2024-12-28 16:15:46,771 - root - INFO - buyer_name column already exists
+2024-12-28 16:15:46,775 - root - INFO - Database migrations completed successfully
+2024-12-28 16:15:46,793 - root - INFO - Admin user already exists
+2024-12-28 16:15:47,079 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:15:47,081 - root - INFO - Debug mode: True
+2024-12-28 16:15:47,230 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 16:15:47,310 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 16:15:47,324 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:15:51,082 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:15:51,083 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:15:51,089 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:15:51,090 - root - INFO - Creating database tables...
+2024-12-28 16:15:51,094 - root - INFO - Database tables created successfully
+2024-12-28 16:15:51,095 - root - INFO - Running database migrations...
+2024-12-28 16:15:51,097 - root - INFO - buyer_name column already exists
+2024-12-28 16:15:51,097 - root - INFO - Database migrations completed successfully
+2024-12-28 16:15:51,108 - root - INFO - Admin user already exists
+2024-12-28 16:15:51,312 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:15:51,342 - root - INFO - Debug mode: True
+2024-12-28 16:15:51,434 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:15:51,447 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:16:26,445 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:26] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:16:27,292 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:27] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:16:32,442 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:16:32,908 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:16:32,981 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:32] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:16:33,426 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:33] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:16:33,431 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:16:33,769 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:16:34,034 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:16:34] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:17:21,576 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:17:21] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:17:21,894 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:17:21] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:17:22,159 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:17:22] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:17:22,391 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:17:22] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:21:06,355 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\server.py', reloading
+2024-12-28 16:21:06,629 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:21:09,937 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:21:09,940 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:21:09,954 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 16:21:09,959 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:21:09,961 - root - INFO - Creating database tables...
+2024-12-28 16:21:09,972 - root - INFO - Database tables created successfully
+2024-12-28 16:21:09,975 - root - INFO - Running database migrations...
+2024-12-28 16:21:09,977 - root - INFO - buyer_name column already exists
+2024-12-28 16:21:09,980 - root - INFO - Database migrations completed successfully
+2024-12-28 16:21:10,016 - root - INFO - Admin user already exists
+2024-12-28 16:21:10,247 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:21:10,248 - root - INFO - Debug mode: True
+2024-12-28 16:21:10,312 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:21:10,324 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:21:29,665 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 16:21:30,408 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:21:32,743 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:21:32,744 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:21:32,752 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 16:21:32,754 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:21:32,754 - root - INFO - Creating database tables...
+2024-12-28 16:21:32,759 - root - INFO - Database tables created successfully
+2024-12-28 16:21:32,760 - root - INFO - Running database migrations...
+2024-12-28 16:21:32,762 - root - INFO - buyer_name column already exists
+2024-12-28 16:21:32,763 - root - INFO - Database migrations completed successfully
+2024-12-28 16:21:32,779 - root - INFO - Admin user already exists
+2024-12-28 16:21:33,021 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:21:33,022 - root - INFO - Debug mode: True
+2024-12-28 16:21:33,103 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:21:33,118 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:23:28,541 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:23:28,541 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:23:28,545 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 16:23:28,546 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:23:28,546 - root - INFO - Creating database tables...
+2024-12-28 16:23:28,552 - root - INFO - Database tables created successfully
+2024-12-28 16:23:28,552 - root - INFO - Running database migrations...
+2024-12-28 16:23:28,554 - root - INFO - buyer_name column already exists
+2024-12-28 16:23:28,554 - root - INFO - Database migrations completed successfully
+2024-12-28 16:23:28,566 - root - INFO - Admin user already exists
+2024-12-28 16:23:28,695 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:23:28,696 - root - INFO - Debug mode: True
+2024-12-28 16:23:28,814 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 16:23:28,815 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 16:23:28,818 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:23:30,571 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:23:30,572 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:23:30,575 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 16:23:30,580 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:23:30,580 - root - INFO - Creating database tables...
+2024-12-28 16:23:30,586 - root - INFO - Database tables created successfully
+2024-12-28 16:23:30,586 - root - INFO - Running database migrations...
+2024-12-28 16:23:30,588 - root - INFO - buyer_name column already exists
+2024-12-28 16:23:30,589 - root - INFO - Database migrations completed successfully
+2024-12-28 16:23:30,600 - root - INFO - Admin user already exists
+2024-12-28 16:23:30,734 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:23:30,735 - root - INFO - Debug mode: True
+2024-12-28 16:23:30,789 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:23:30,803 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:24:28,331 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:28] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:24:28,779 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:28] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:24:28,992 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:28] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:24:29,296 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:29] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:24:29,319 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:24:29,611 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:29] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:24:29,647 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:24:29,968 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:29] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:24:30,234 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:30] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:24:32,772 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:32] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:24:33,102 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:24:33,148 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:33] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:24:33,432 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:33] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:24:34,852 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:34] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:24:34,854 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:34] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:24:35,182 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:35] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 16:24:35,420 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:24:35] "[31m[1mGET /api/auth/users HTTP/1.1[0m" 401 -
+2024-12-28 16:27:56,051 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\auth.py', reloading
+2024-12-28 16:27:56,771 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:27:59,992 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:27:59,993 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:27:59,997 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 16:27:59,999 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:27:59,999 - root - INFO - Creating database tables...
+2024-12-28 16:28:00,004 - root - INFO - Database tables created successfully
+2024-12-28 16:28:00,004 - root - INFO - Running database migrations...
+2024-12-28 16:28:00,006 - root - INFO - buyer_name column already exists
+2024-12-28 16:28:00,009 - root - INFO - Database migrations completed successfully
+2024-12-28 16:28:00,023 - root - INFO - Admin user already exists
+2024-12-28 16:28:00,221 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:28:00,222 - root - INFO - Debug mode: True
+2024-12-28 16:28:00,318 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:28:00,327 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:28:06,645 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:06] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:28:06,647 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:06] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:28:06,899 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:06] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:28:06,960 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:06] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:28:06,962 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:06] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:28:07,212 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:07] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:28:07,291 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:07] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:28:08,782 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:08] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:28:09,093 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:09] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:28:09,139 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:09] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:28:09,418 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:09] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:28:11,121 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:11] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:28:11,123 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:11] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:28:11,457 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:11] "GET /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:28:11,710 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:11] "GET /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:28:26,849 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:26] "OPTIONS /api/auth/users/beth HTTP/1.1" 200 -
+2024-12-28 16:28:26,923 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:26] "DELETE /api/auth/users/beth HTTP/1.1" 200 -
+2024-12-28 16:28:27,251 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:27] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:28:27,566 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:27] "GET /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:28:44,951 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:44] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:28:45,263 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:45] "[35m[1mPOST /api/auth/users HTTP/1.1[0m" 201 -
+2024-12-28 16:28:45,587 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:28:45] "GET /api/auth/users HTTP/1.1" 200 -
+2024-12-28 16:29:02,327 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:02] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:29:02,763 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:02] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:29:02,859 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:02] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:29:03,202 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:03] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:29:03,222 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:29:03,514 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:03] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:29:03,546 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:29:03,857 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:29:04,123 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:29:04] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:54:25,964 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:54:25] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:54:26,963 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:54:26] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:54:51,295 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\server.py', reloading
+2024-12-28 16:54:55,177 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 16:55:02,221 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 16:55:02,222 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:55:02,228 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 16:55:02,230 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 16:55:02,231 - root - INFO - Creating database tables...
+2024-12-28 16:55:02,236 - root - INFO - Database tables created successfully
+2024-12-28 16:55:02,236 - root - INFO - Running database migrations...
+2024-12-28 16:55:02,238 - root - INFO - buyer_name column already exists
+2024-12-28 16:55:02,239 - root - INFO - Database migrations completed successfully
+2024-12-28 16:55:02,258 - root - INFO - Admin user already exists
+2024-12-28 16:55:03,863 - root - INFO - Starting Flask server on port 5000
+2024-12-28 16:55:03,863 - root - INFO - Debug mode: True
+2024-12-28 16:55:04,384 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 16:55:04,393 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 16:55:04,664 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:04,677 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:04,681 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:04,684 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:04,687 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:04,699 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:04,976 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:04,988 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:04,997 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:04] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,003 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,008 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,276 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,657 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,713 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,760 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,783 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,838 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:05,977 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:05] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:06,455 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:06] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:06,495 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:06] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:06,519 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:06] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:06,538 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:06] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:06,582 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:06] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:06,758 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:06] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:07,734 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:07] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:07,742 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:07] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:55:07,743 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:07] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 16:55:07,744 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:07] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:55:08,065 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:08] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 16:55:08,066 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:08] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:55:08,400 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:08] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:55:08,666 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:08] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 16:55:08,713 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 16:55:08] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:01:51,706 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Obah\\PycharmProjects\\NationalPaints\\backend\\server.py', reloading
+2024-12-28 17:01:52,266 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 17:01:55,721 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\NationalPaints\backend
+2024-12-28 17:01:55,721 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 17:01:55,724 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 17:01:55,725 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\NationalPaints\backend\inventory.db
+2024-12-28 17:01:55,726 - root - INFO - Creating database tables...
+2024-12-28 17:01:55,731 - root - INFO - Database tables created successfully
+2024-12-28 17:01:55,732 - root - INFO - Running database migrations...
+2024-12-28 17:01:55,733 - root - INFO - buyer_name column already exists
+2024-12-28 17:01:55,735 - root - INFO - Database migrations completed successfully
+2024-12-28 17:01:55,747 - root - INFO - Admin user already exists
+2024-12-28 17:01:55,877 - root - INFO - Starting Flask server on port 5000
+2024-12-28 17:01:55,877 - root - INFO - Debug mode: True
+2024-12-28 17:01:56,066 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 17:01:56,077 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 17:26:34,409 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:34] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:26:34,411 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:34] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:34,911 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:34] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:26:35,294 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:35] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:36,579 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:36] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:36,951 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:36] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:47,396 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:47] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-28 17:26:47,982 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:47] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-28 17:26:48,145 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:48] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:48,447 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:48] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:26:48,463 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:48] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:48,767 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:48] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:26:48,847 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:48] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:49,159 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:49] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:49,428 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:49] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:51,766 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:51] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:26:52,076 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:52] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:52,113 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:52] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:26:52,445 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:52] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:26:53,313 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:53] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 17:26:53,333 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:53] "OPTIONS /api/auth/users HTTP/1.1" 200 -
+2024-12-28 17:26:53,557 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:53] "GET /api/auth/users HTTP/1.1" 200 -
+2024-12-28 17:26:53,678 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:26:53] "GET /api/auth/users HTTP/1.1" 200 -
+2024-12-28 17:27:00,827 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:00] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:27:00,827 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:00] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:27:01,078 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:27:01,144 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:01] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:27:01,145 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:27:01,390 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:27:01,491 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:01] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:27:01,884 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:01] "GET /api/sales-history HTTP/1.1" 200 -
+2024-12-28 17:27:02,207 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:27:02] "GET /api/sales-history HTTP/1.1" 200 -
+2024-12-28 17:28:53,444 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:28:53] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:28:53,448 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:28:53] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:28:53,716 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:28:53] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:28:53,766 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:28:53] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:28:53,773 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:28:53] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:28:54,091 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:28:54] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:28:54,358 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:28:54] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:30:03,336 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:30:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:30:03,338 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:30:03] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:30:03,596 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:30:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:30:03,660 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:30:03] "GET /api/items HTTP/1.1" 200 -
+2024-12-28 17:30:03,661 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:30:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:30:03,911 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:30:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-28 17:30:03,988 - werkzeug - INFO - 127.0.0.1 - - [28/Dec/2024 17:30:03] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-31 12:13:16,106 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-31 12:13:16,110 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-31 12:13:16,115 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-31 12:13:16,117 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-31 12:13:16,118 - root - INFO - Creating database tables...
+2024-12-31 12:13:16,146 - root - INFO - Database tables created successfully
+2024-12-31 12:13:16,147 - root - INFO - Running database migrations...
+2024-12-31 12:13:16,151 - root - INFO - buyer_name column already exists
+2024-12-31 12:13:16,158 - root - INFO - Database migrations completed successfully
+2024-12-31 12:13:16,223 - root - INFO - Admin user already exists
+2024-12-31 12:13:28,712 - root - INFO - Starting Flask server on port 5000
+2024-12-31 12:13:28,761 - root - INFO - Debug mode: True
+2024-12-31 12:13:29,158 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 12:13:29,161 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 12:13:29,209 - werkzeug - INFO -  * Restarting with stat
+2024-12-31 12:13:33,639 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-31 12:13:33,641 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-31 12:13:33,645 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-31 12:13:33,647 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-31 12:13:33,648 - root - INFO - Creating database tables...
+2024-12-31 12:13:33,654 - root - INFO - Database tables created successfully
+2024-12-31 12:13:33,656 - root - INFO - Running database migrations...
+2024-12-31 12:13:33,660 - root - INFO - buyer_name column already exists
+2024-12-31 12:13:33,668 - root - INFO - Database migrations completed successfully
+2024-12-31 12:13:33,682 - root - INFO - Admin user already exists
+2024-12-31 12:13:34,026 - root - INFO - Starting Flask server on port 5000
+2024-12-31 12:13:34,027 - root - INFO - Debug mode: True
+2024-12-31 12:13:34,109 - werkzeug - WARNING -  * Debugger is active!
+2024-12-31 12:13:34,135 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-31 12:15:21,057 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:21] "OPTIONS /api/auth/login HTTP/1.1" 200 -
+2024-12-31 12:15:21,541 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:21] "POST /api/auth/login HTTP/1.1" 200 -
+2024-12-31 12:15:22,945 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:22] "GET /api/items HTTP/1.1" 200 -
+2024-12-31 12:15:23,263 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-31 12:15:23,281 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:23] "GET /api/items HTTP/1.1" 200 -
+2024-12-31 12:15:23,602 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-31 12:15:23,912 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:23] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-31 12:15:24,165 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:24] "GET /api/paint-classes HTTP/1.1" 200 -
+2024-12-31 12:15:24,229 - werkzeug - INFO - 127.0.0.1 - - [31/Dec/2024 12:15:24] "GET /api/paint-classes HTTP/1.1" 200 -
