@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# National Paints Inventory  Management Software
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start` 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -19,6 +19,9 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run electron-dev`
+To run the app as a desktop app in the developmentenvironment
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
@@ -28,6 +31,14 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run electron-prod`
+This is for testing the app to see if your producton build is well configured. This command will not run the app on localhost but will run it as static files from the build folder. It will also open as a desktop app
+
+### `npm run electron-pack`
+To package the app. This is a standalone app that uses python and flask backend. For you to package this app, you need to have embedded python 3.10 in you frontend folder. Create a folder named 'python-win-x64' in the frontend folder, extract the the contents of embeded python there, (you can download the embedded python on python official page). You also have to install modules in the requirements.txt(you can find it in the backend folder) to this embedded python environment. 
+
+After running this command on your terminal, and installable app will be created in the dist folder, you can install the app to you system
 
 ### `npm run eject`
 
