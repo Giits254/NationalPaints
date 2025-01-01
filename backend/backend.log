@@ -1,0 +1,240 @@
+2024-12-28 17:38:20,213 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 17:38:20,214 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 17:38:20,218 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 17:38:20,220 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 17:38:20,220 - root - INFO - Creating database tables...
+2024-12-28 17:38:20,226 - root - INFO - Database tables created successfully
+2024-12-28 17:38:20,226 - root - INFO - Running database migrations...
+2024-12-28 17:38:20,236 - root - INFO - buyer_name column already exists
+2024-12-28 17:38:20,244 - root - INFO - Database migrations completed successfully
+2024-12-28 17:38:20,302 - root - INFO - Admin user already exists
+2024-12-28 17:38:26,379 - root - INFO - Starting Flask server on port 5000
+2024-12-28 17:38:26,379 - root - INFO - Debug mode: True
+2024-12-28 17:38:26,622 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 17:38:26,622 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 17:38:26,630 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 17:38:29,142 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 17:38:29,143 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 17:38:29,145 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 17:38:29,151 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 17:38:29,152 - root - INFO - Creating database tables...
+2024-12-28 17:38:29,156 - root - INFO - Database tables created successfully
+2024-12-28 17:38:29,158 - root - INFO - Running database migrations...
+2024-12-28 17:38:29,160 - root - INFO - buyer_name column already exists
+2024-12-28 17:38:29,160 - root - INFO - Database migrations completed successfully
+2024-12-28 17:38:29,189 - root - INFO - Admin user already exists
+2024-12-28 17:38:29,453 - root - INFO - Starting Flask server on port 5000
+2024-12-28 17:38:29,454 - root - INFO - Debug mode: True
+2024-12-28 17:38:29,537 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 17:38:29,557 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 18:37:37,639 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:37:37,640 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:37:37,643 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:37:37,644 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:37:37,645 - root - INFO - Creating database tables...
+2024-12-28 18:37:37,651 - root - INFO - Database tables created successfully
+2024-12-28 18:37:37,651 - root - INFO - Running database migrations...
+2024-12-28 18:37:37,658 - root - INFO - buyer_name column already exists
+2024-12-28 18:37:37,658 - root - INFO - Database migrations completed successfully
+2024-12-28 18:37:37,670 - root - INFO - Admin user already exists
+2024-12-28 18:37:43,515 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:37:43,516 - root - INFO - Debug mode: True
+2024-12-28 18:37:43,757 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 18:37:43,757 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 18:37:43,763 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 18:37:45,534 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:37:45,535 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:37:45,538 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:37:45,539 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:37:45,540 - root - INFO - Creating database tables...
+2024-12-28 18:37:45,545 - root - INFO - Database tables created successfully
+2024-12-28 18:37:45,545 - root - INFO - Running database migrations...
+2024-12-28 18:37:45,547 - root - INFO - buyer_name column already exists
+2024-12-28 18:37:45,547 - root - INFO - Database migrations completed successfully
+2024-12-28 18:37:45,559 - root - INFO - Admin user already exists
+2024-12-28 18:37:45,682 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:37:45,683 - root - INFO - Debug mode: True
+2024-12-28 18:37:45,732 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 18:37:45,757 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 18:42:03,876 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:42:03,876 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:42:03,879 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:42:03,880 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:42:03,880 - root - INFO - Creating database tables...
+2024-12-28 18:42:03,885 - root - INFO - Database tables created successfully
+2024-12-28 18:42:03,886 - root - INFO - Running database migrations...
+2024-12-28 18:42:03,888 - root - INFO - buyer_name column already exists
+2024-12-28 18:42:03,888 - root - INFO - Database migrations completed successfully
+2024-12-28 18:42:03,901 - root - INFO - Admin user already exists
+2024-12-28 18:42:04,136 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:42:04,141 - root - INFO - Debug mode: True
+2024-12-28 18:42:04,334 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 18:42:04,334 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 18:42:04,338 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 18:42:07,819 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:42:07,820 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:42:07,824 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:42:07,826 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:42:07,826 - root - INFO - Creating database tables...
+2024-12-28 18:42:07,830 - root - INFO - Database tables created successfully
+2024-12-28 18:42:07,831 - root - INFO - Running database migrations...
+2024-12-28 18:42:07,833 - root - INFO - buyer_name column already exists
+2024-12-28 18:42:07,833 - root - INFO - Database migrations completed successfully
+2024-12-28 18:42:07,847 - root - INFO - Admin user already exists
+2024-12-28 18:42:08,219 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:42:08,220 - root - INFO - Debug mode: True
+2024-12-28 18:42:08,345 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 18:42:08,363 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 18:52:24,613 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:52:24,614 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:52:24,616 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:52:24,617 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:52:24,618 - root - INFO - Creating database tables...
+2024-12-28 18:52:24,626 - root - INFO - Database tables created successfully
+2024-12-28 18:52:24,626 - root - INFO - Running database migrations...
+2024-12-28 18:52:24,628 - root - INFO - buyer_name column already exists
+2024-12-28 18:52:24,628 - root - INFO - Database migrations completed successfully
+2024-12-28 18:52:24,644 - root - INFO - Admin user already exists
+2024-12-28 18:52:25,114 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:52:25,115 - root - INFO - Debug mode: True
+2024-12-28 18:52:25,370 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 18:52:25,370 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 18:52:25,377 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 18:52:27,936 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:52:27,936 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:52:27,940 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:52:27,941 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:52:27,942 - root - INFO - Creating database tables...
+2024-12-28 18:52:27,946 - root - INFO - Database tables created successfully
+2024-12-28 18:52:27,946 - root - INFO - Running database migrations...
+2024-12-28 18:52:27,947 - root - INFO - buyer_name column already exists
+2024-12-28 18:52:27,948 - root - INFO - Database migrations completed successfully
+2024-12-28 18:52:27,961 - root - INFO - Admin user already exists
+2024-12-28 18:52:28,154 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:52:28,158 - root - INFO - Debug mode: True
+2024-12-28 18:52:28,245 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 18:52:28,259 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 18:54:04,957 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:54:04,958 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:54:04,961 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:54:04,962 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:54:04,962 - root - INFO - Creating database tables...
+2024-12-28 18:54:04,969 - root - INFO - Database tables created successfully
+2024-12-28 18:54:04,969 - root - INFO - Running database migrations...
+2024-12-28 18:54:04,971 - root - INFO - buyer_name column already exists
+2024-12-28 18:54:04,972 - root - INFO - Database migrations completed successfully
+2024-12-28 18:54:04,986 - root - INFO - Admin user already exists
+2024-12-28 18:54:05,226 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:54:05,227 - root - INFO - Debug mode: True
+2024-12-28 18:54:05,754 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 18:54:05,755 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 18:54:05,759 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 18:54:07,812 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:54:07,813 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:54:07,816 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:54:07,819 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:54:07,819 - root - INFO - Creating database tables...
+2024-12-28 18:54:07,825 - root - INFO - Database tables created successfully
+2024-12-28 18:54:07,825 - root - INFO - Running database migrations...
+2024-12-28 18:54:07,827 - root - INFO - buyer_name column already exists
+2024-12-28 18:54:07,827 - root - INFO - Database migrations completed successfully
+2024-12-28 18:54:07,842 - root - INFO - Admin user already exists
+2024-12-28 18:54:08,043 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:54:08,044 - root - INFO - Debug mode: True
+2024-12-28 18:54:08,108 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 18:54:08,122 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 18:56:24,625 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:56:24,628 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:56:24,631 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:56:24,633 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:56:24,633 - root - INFO - Creating database tables...
+2024-12-28 18:56:24,639 - root - INFO - Database tables created successfully
+2024-12-28 18:56:24,639 - root - INFO - Running database migrations...
+2024-12-28 18:56:24,641 - root - INFO - buyer_name column already exists
+2024-12-28 18:56:24,641 - root - INFO - Database migrations completed successfully
+2024-12-28 18:56:24,657 - root - INFO - Admin user already exists
+2024-12-28 18:56:24,848 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:56:24,848 - root - INFO - Debug mode: True
+2024-12-28 18:56:24,964 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 18:56:24,964 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 18:56:24,969 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 18:56:27,532 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 18:56:27,532 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:56:27,535 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 18:56:27,537 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 18:56:27,537 - root - INFO - Creating database tables...
+2024-12-28 18:56:27,546 - root - INFO - Database tables created successfully
+2024-12-28 18:56:27,546 - root - INFO - Running database migrations...
+2024-12-28 18:56:27,548 - root - INFO - buyer_name column already exists
+2024-12-28 18:56:27,549 - root - INFO - Database migrations completed successfully
+2024-12-28 18:56:27,564 - root - INFO - Admin user already exists
+2024-12-28 18:56:27,782 - root - INFO - Starting Flask server on port 5000
+2024-12-28 18:56:27,782 - root - INFO - Debug mode: True
+2024-12-28 18:56:27,854 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 18:56:27,869 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 19:00:55,155 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 19:00:55,156 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 19:00:55,159 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 19:00:55,162 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 19:00:55,163 - root - INFO - Creating database tables...
+2024-12-28 19:00:55,168 - root - INFO - Database tables created successfully
+2024-12-28 19:00:55,168 - root - INFO - Running database migrations...
+2024-12-28 19:00:55,171 - root - INFO - buyer_name column already exists
+2024-12-28 19:00:55,172 - root - INFO - Database migrations completed successfully
+2024-12-28 19:00:55,186 - root - INFO - Admin user already exists
+2024-12-28 19:00:55,825 - root - INFO - Starting Flask server on port 5000
+2024-12-28 19:00:55,825 - root - INFO - Debug mode: True
+2024-12-28 19:00:56,255 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 19:00:56,256 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 19:00:56,284 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 19:00:58,203 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 19:00:58,204 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 19:00:58,206 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 19:00:58,207 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 19:00:58,208 - root - INFO - Creating database tables...
+2024-12-28 19:00:58,214 - root - INFO - Database tables created successfully
+2024-12-28 19:00:58,214 - root - INFO - Running database migrations...
+2024-12-28 19:00:58,216 - root - INFO - buyer_name column already exists
+2024-12-28 19:00:58,216 - root - INFO - Database migrations completed successfully
+2024-12-28 19:00:58,230 - root - INFO - Admin user already exists
+2024-12-28 19:00:58,409 - root - INFO - Starting Flask server on port 5000
+2024-12-28 19:00:58,409 - root - INFO - Debug mode: True
+2024-12-28 19:00:58,465 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 19:00:58,476 - werkzeug - INFO -  * Debugger PIN: 464-831-860
+2024-12-28 19:09:38,861 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 19:09:38,862 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 19:09:38,864 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 19:09:38,867 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 19:09:38,867 - root - INFO - Creating database tables...
+2024-12-28 19:09:38,873 - root - INFO - Database tables created successfully
+2024-12-28 19:09:38,873 - root - INFO - Running database migrations...
+2024-12-28 19:09:38,875 - root - INFO - buyer_name column already exists
+2024-12-28 19:09:38,875 - root - INFO - Database migrations completed successfully
+2024-12-28 19:09:38,900 - root - INFO - Admin user already exists
+2024-12-28 19:09:39,434 - root - INFO - Starting Flask server on port 5000
+2024-12-28 19:09:39,434 - root - INFO - Debug mode: True
+2024-12-28 19:09:40,171 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-28 19:09:40,172 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-28 19:09:40,178 - werkzeug - INFO -  * Restarting with stat
+2024-12-28 19:09:44,062 - root - INFO - Running in development mode from: C:\Users\Obah\PycharmProjects\finalAPP\backend
+2024-12-28 19:09:44,063 - root - INFO - Database path: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 19:09:44,067 - flask_cors.core - WARNING - Unknown option passed to Flask-CORS: allow_credentials
+2024-12-28 19:09:44,069 - root - INFO - Initializing database at: C:\Users\Obah\PycharmProjects\finalAPP\backend\inventory.db
+2024-12-28 19:09:44,069 - root - INFO - Creating database tables...
+2024-12-28 19:09:44,075 - root - INFO - Database tables created successfully
+2024-12-28 19:09:44,075 - root - INFO - Running database migrations...
+2024-12-28 19:09:44,077 - root - INFO - buyer_name column already exists
+2024-12-28 19:09:44,077 - root - INFO - Database migrations completed successfully
+2024-12-28 19:09:44,091 - root - INFO - Admin user already exists
+2024-12-28 19:09:44,351 - root - INFO - Starting Flask server on port 5000
+2024-12-28 19:09:44,352 - root - INFO - Debug mode: True
+2024-12-28 19:09:44,524 - werkzeug - WARNING -  * Debugger is active!
+2024-12-28 19:09:44,550 - werkzeug - INFO -  * Debugger PIN: 464-831-860
